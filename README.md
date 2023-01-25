@@ -6,7 +6,7 @@
 </div>
 
 ### :woman_technologist: About me
-I am a software developer from Norway, curretly working for IBM.
+I am a software developer from Norway, currently working for IBM.
 
 - 🔭 I’m currently working on creating my own digital resume
 - 🌱 I’m currently learning Flutter! You can expect more Flutter projects to appear here soon :smile:
